@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="windows-1251" ?>
+<prices>
+    <company>
+        <company_name>intertool</company_name>
+        <link>https://intertool.ua/xml_output/</link>
+        <offers>shop/offers/offer</offers>
+        <item_available>available</item_available>
+        <vendor_Code>vendorCode</vendor_Code>
+        <price>price</price>
+    </company>
+    <company>
+        <company_name>sigma</company_name>
+        <link>https://sigma.ua/bitrix/catalog_export/marketsigma.php</link>
+        <offers>shop/offers/offer</offers>
+        <item_available>available</item_available>
+        <vendor_Code>vendorCode</vendor_Code>
+        <price>price</price>
+    </company>
+    <company>
+        <company_name>nowa</company_name>
+        <link>https://nowatools.com.ua/index.php?route=extension/feed/prom</link>
+        <offers>items/item</offers>
+        <item_available>available</item_available>
+        <vendor_Code>vendorCode</vendor_Code>
+        <price>price</price>
+    </company>
+    <company>
+        <company_name>ingco</company_name>
+        <link>https://ingcotools.com.ua/index.php?route=extension/feed/prom</link>
+        <offers>items/item</offers>
+        <item_available>available</item_available>
+        <vendor_Code>vendorCode</vendor_Code>
+        <price>price</price>
+    </company>
+</prices>
