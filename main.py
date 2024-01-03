@@ -31,3 +31,4 @@ if __name__ == "__main__":
     file_name = f'{data.day}.{data.month}.{data.day}_{data.hour}-{data.minute}_update.xlsx'
     wb.save(file_name)
     print(f"Сохранен файл: {file_name}")
+    input("Для выхода нажми Enter...")
